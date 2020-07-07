@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "electron": "^1.7.9",
+    "electron": "^7.2.4",
     "foundation-sites": "^6.4.4-rc1"
   }
 }
